@@ -1,0 +1,5 @@
+{
+  "name": "FireTodo - Smart Task Manager",
+  "description": "Ứng dụng quản lý công việc thời gian thực sử dụng Firebase Firestore và Authentication.",
+  "requestFramePermissions": []
+}
